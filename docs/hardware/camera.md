@@ -124,7 +124,7 @@ camera.takePicture(options)
 ### Check if the device has available camera
 
 The first thing that the developers should check if the device has an available camera.
-The method isAvaiable will return true if the camera hardware is ready to use or false if otherwise.
+The method isAvailable will return true if the camera hardware is ready to use or false if otherwise.
 
 ```
 var isAvailable = camera.isAvailable(); 
